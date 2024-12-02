@@ -1,4 +1,4 @@
-SplineFontDB: 3.2
+SplineFontDB: 3.0
 FontName: LibertinusSerif-Italic
 FullName: Libertinus Serif Italic
 FamilyName: Libertinus Serif
@@ -10364,6 +10364,8 @@ Encoding: 305 305 421
 Width: 276
 GlyphClass: 2
 Flags: MW
+AnchorPoint: "cedilla" 137 12 basechar 0
+AnchorPoint: "ogonek" 209 10 basechar 0
 AnchorPoint: "above" 267 645 basechar 0
 AnchorPoint: "below" 139 -108 basechar 0
 LayerCount: 2
