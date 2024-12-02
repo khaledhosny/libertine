@@ -1,4 +1,4 @@
-SplineFontDB: 3.2
+SplineFontDB: 3.0
 FontName: LibertinusMath-Regular
 FullName: Libertinus Math Regular
 FamilyName: Libertinus Math
@@ -617,7 +617,7 @@ Grid
   Named: "Top Accent"
 EndSplineSet
 AnchorClass2: "aboveMark" "'mkmk' Mark to Mark-1" "right" "'mark' Right" "komb_OR" "'mark' Komb OR" "above" "'mark' Above" "below" "'mark' Below" "cedilla" "'mark' Cedilla" "ogonek" "'mark' Ogonek" "middle" "'mark' Middle"
-BeginChars: 1114839 4379
+BeginChars: 1114839 4380
 
 StartChar: exclam
 Encoding: 33 33 0
@@ -161209,6 +161209,30 @@ Flags: W
 LayerCount: 2
 Fore
 Refer: 4015 10239 N -1 0 0 1 1411 0 2
+EndChar
+
+StartChar: uni22B8
+Encoding: 8888 8888 4375
+Width: 762
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+520 260 m 0
+ 520 219 554 185 595 185 c 0
+ 636 185 670 219 670 260 c 0
+ 670 301 636 335 595 335 c 0
+ 554 335 520 301 520 260 c 0
+472.927620556 233 m 1
+ 258 233 l 1
+ 50 233 l 1
+ 50 287 l 1
+ 472.927620556 287 l 1
+ 485.280524095 343.035292122 535.269358454 385 595 385 c 0
+ 664 385 720 329 720 260 c 0
+ 720 191 664 135 595 135 c 0
+ 535.269358454 135 485.280524095 176.964707878 472.927620556 233 c 1
+EndSplineSet
 EndChar
 EndChars
 EndSplineFont
